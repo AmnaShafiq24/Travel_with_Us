@@ -6,7 +6,6 @@ This is a demo front-end only website for browsing hotel information. It's built
 
 *   HTML
 *   CSS
-*   JavaScript
 *   Font Awesome (for icons)
 
 ## Features
